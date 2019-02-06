@@ -1,0 +1,29 @@
+.title-pg{
+    font-size: 3em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.actions{
+padding: 6px;
+color: #FFF;
+text-decoration: nome;
+font-size: 1em;
+margin: 0px 2px;
+}
+
+
+.edit{
+ background:  #242063;
+
+}
+
+
+.delete{
+  background:  #b12020;
+}
+
+.actions:hover{
+	text-decoration: none;
+	color: #FFF;
+}

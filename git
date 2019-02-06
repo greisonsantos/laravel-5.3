@@ -1,0 +1,101 @@
+[33mcommit 09a0666baca811a1073dd7a6e96dee1722d8f152[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: greisonsantos <greisonsantos@gmail.com>
+Date:   Fri Feb 1 11:28:32 2019 -0200
+
+    melhorando listagem
+
+[33mcommit fe522f8743a34178f3e8559549ec65583292ca12[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Wed Jan 23 12:11:41 2019 -0200
+
+    delete
+
+[33mcommit bb853bff928b03d7a2b12cf97e342bf899844278[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Wed Jan 23 12:04:20 2019 -0200
+
+    updade
+
+[33mcommit 5f6856a187999d14611bbf57a346bb01166ec37e[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Wed Jan 23 11:50:08 2019 -0200
+
+    first cadastro
+
+[33mcommit 2be648ea436b811f005f4acefa5a10a9f06e7862[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Wed Jan 23 11:18:39 2019 -0200
+
+    models
+
+[33mcommit 615b0952848cb979c1ee6e81bf1ef22324905a47[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Tue Jan 22 16:56:17 2019 -0200
+
+    seedes
+
+[33mcommit 35959d02c979b94cfd285a85e43319dedcde588f[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Tue Jan 22 16:43:05 2019 -0200
+
+    migrations
+
+[33mcommit f19e90cf8e4dba12a1c6746959d453f42455c2cb[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Tue Jan 22 12:25:07 2019 -0200
+
+    stack permitignorar/carregar  arquivos em paginas especificas
+
+[33mcommit 56e4717db105757fc576234183149a609c81248d[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Thu Jan 17 23:15:27 2019 -0200
+
+    template blade final
+
+[33mcommit 80b61f06491e420c952b94847da25376ea20f41d[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Thu Jan 17 22:55:11 2019 -0200
+
+    template blade parte 1
+
+[33mcommit 79312ec535030fc57268256ffa4b75cf1fa339b7[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Thu Jan 17 22:34:24 2019 -0200
+
+    views
+
+[33mcommit aaa55bd35cbcfc81fcc3c85e62086a61b25184c1[m[33m ([m[1;31morigin/greison[m[33m, [m[1;32mgreison[m[33m)[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Thu Jan 17 22:12:42 2019 -0200
+
+    controllers resource
+
+[33mcommit 0c3b451cb566277c85cdd975d33ed55c434fad77[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Wed Jan 16 17:28:16 2019 -0200
+
+    controller
+
+[33mcommit 0f8cd413d3b4d1334ac66810b2c7c8ccc2e3d4d9[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Wed Jan 16 17:07:14 2019 -0200
+
+    todos os tipos de rotas
+
+[33mcommit 21e3ec1fad775c3703f47fd2ccf13c51f16744a7[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Wed Jan 16 16:30:18 2019 -0200
+
+    rotas basicas
+
+[33mcommit ef5edb0932d3f61023e0223d491e81c5fa1950ce[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Wed Jan 16 15:28:00 2019 -0200
+
+    first commit
+
+[33mcommit a0d26e41c2c04dfdc998923a6ef51ec6f92946b6[m
+Author: greisonsantos <greisonsantos03@gmail.com>
+Date:   Wed Jan 16 15:27:10 2019 -0200
+
+    first commit
