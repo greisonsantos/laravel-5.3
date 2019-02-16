@@ -89,10 +89,21 @@ class ProdutosController extends Controller
      *
      * @param  int  $id
      * @return \Illuminate\Http\Response
+     *
      */
-    public function edit($id)
+
+    //editar na mesma view de create
+    public function edit($id,Product $product)
     {
         //
+
+        $product= $product->find($id);
+        $tilte= "Editar Produto: {$product->name}";
+        $category=['eletronico','moveis','limpesa','banho'];
+
+         return view('Painel.products.create',compact('title','category','product'));
+
+        return "editando";
     }
 
     /**

@@ -22,15 +22,15 @@
 	<!-- <input type="hidden" name="_token" value="{{csrf_token()}}"> -->
 	{!! csrf_field()!!}
 	<div class="form-group">
-		<input type="text" name="name" placeholder="nome" class="form-control" value="{{old('name')}}">
+		<input type="text" name="name" placeholder="nome" class="form-control" value="{{$product->name or old('name')}}">
 	</div>
 	<div class="form-group">
 		<label>
-			<input type="checkbox" name="active" value="1"> Ativo ?
+			<input type="checkbox" name="active" value="1" @if (isset ($product) && $product->active=='1') checked @endif> Ativo?
 		</label>
 	</div>
 	<div class="form-group">
-		<input type="number" name="number" placeholder="numero" class="form-control" value="{{old('number')}}">
+		<input type="number" name="number" placeholder="numero" class="form-control" value="{{$product->number or old('number')}}">
 	</div>
 
 	<div class="form-group">
@@ -44,7 +44,7 @@
 		</select>
 	</div>
 	<div class="form-group">
-		<input type="text" name="description" placeholder="descrição" class="form-control" value="{{old('description')}}">
+		<input type="text" name="description" placeholder="descrição" class="form-control" value="{{$product->description or old('description')}}">
 	</div>
 
 	<button  class="btn btn-primary" >Enviar</button>
